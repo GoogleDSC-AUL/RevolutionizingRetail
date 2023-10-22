@@ -36,7 +36,9 @@ Benefits of Reinforcement Learning in Retail:
 3. Data-Driven Decision-Making: Retailers can gather valuable insights from the system's data, helping them make informed decisions about inventory, promotions, and store layout.
 4. Efficient Inventory Management: The system can identify trends and popular items, helping retailers manage inventory more effectively.
 
+
    Critical components in the tech stack for revolutionizing retail with reinforcement learning:
+   
 1. Data Storage:
    - Use a reliable database system (e.g., PostgreSQL or MongoDB) for clothing inventory and customer data storage.
 2. Reinforcement Learning:
