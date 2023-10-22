@@ -25,6 +25,7 @@ The reinforcement learning model continually refines its recommendations based o
    Rewards are assigned based on customer satisfaction and purchases. A successful recommendation that leads to a purchase or a high customer rating is rewarded, while a recommendation that doesn't meet the customer's expectations results in a lower reward.
 5. Learning:
    The system continuously learns and adapts its recommendations based on the feedback it receives. Over time, it becomes increasingly adept at providing personalized suggestions.
+   
 Styling Assistance:
 In addition to recommending individual clothing items, the reinforcement learning system can also offer styling advice. By considering the customer's preferences and the compatibility of different items, it can suggest complete outfits, ensuring that customers leave the store not only with individual clothing pieces but also a coordinated look.
 Benefits of Reinforcement Learning in Retail:
